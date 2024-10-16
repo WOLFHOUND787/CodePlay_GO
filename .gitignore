@@ -23,3 +23,20 @@ go.work.sum
 
 # env file
 .env
+
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.pub-cache/
+pubspec.lock
+build/
+flutter_*.png
+*.jks
+*.keystore
+*.apk
+*.ipa
+*.app
+
+# IntelliJ related files
+.idea/
+*.iml
