@@ -21,3 +21,4 @@ flutter:
   assets:
     - assets/song1.mp3
     - assets/song2.mp3
+    - assets/profile.png
